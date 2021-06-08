@@ -1,0 +1,34 @@
+pe/edu/upc/venta/services/ReservationService.java
+ pe.edu.upc.venta.services.ReservationService
+pe/edu/upc/venta/services/RentalActivityService.java
+ pe.edu.upc.venta.services.RentalActivityService
+pe/edu/upc/venta/services/CrudService.java
+ pe.edu.upc.venta.services.CrudService
+pe/edu/upc/venta/VentaServiceApplication.java
+ pe.edu.upc.venta.VentaServiceApplication
+pe/edu/upc/venta/services/OfferService.java
+ pe.edu.upc.venta.services.OfferService
+pe/edu/upc/venta/controllers/ReservationController.java
+ pe.edu.upc.venta.controllers.ReservationController
+pe/edu/upc/venta/repositories/RentalActivityRepository.java
+ pe.edu.upc.venta.repositories.RentalActivityRepository
+pe/edu/upc/venta/repositories/ReservationRepository.java
+ pe.edu.upc.venta.repositories.ReservationRepository
+pe/edu/upc/venta/services/impls/RentalActivityServiceImpl.java
+ pe.edu.upc.venta.services.impls.RentalActivityServiceImpl
+pe/edu/upc/venta/controllers/RentalActivityController.java
+ pe.edu.upc.venta.controllers.RentalActivityController
+pe/edu/upc/venta/entities/Reservation.java
+ pe.edu.upc.venta.entities.Reservation
+pe/edu/upc/venta/entities/RentalActivity.java
+ pe.edu.upc.venta.entities.RentalActivity
+pe/edu/upc/venta/repositories/OfferRepository.java
+ pe.edu.upc.venta.repositories.OfferRepository
+pe/edu/upc/venta/services/impls/OfferServiceImpl.java
+ pe.edu.upc.venta.services.impls.OfferServiceImpl
+pe/edu/upc/venta/controllers/OfferController.java
+ pe.edu.upc.venta.controllers.OfferController
+pe/edu/upc/venta/services/impls/ReservationServiceImpl.java
+ pe.edu.upc.venta.services.impls.ReservationServiceImpl
+pe/edu/upc/venta/entities/Offer.java
+ pe.edu.upc.venta.entities.Offer
